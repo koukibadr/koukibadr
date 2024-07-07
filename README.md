@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Badr</h1>
-<h3 align="center">Senior mobile developer I work on Flutter & Native projects and also I'm a dev trainer</h3>
+<h3 align="center">Mobile developer, I work on Flutter & Native projects and also I'm a dev trainer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koukibadr&label=Profile%20views&color=0e75b6&style=flat" alt="koukibadr" /> </p>
 
