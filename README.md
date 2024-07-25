@@ -10,6 +10,8 @@ Take a coffee ☕ and let me introduce you to my geek 🤓 self
 - 👯 I'm actively contributing to open source projects (Motion Toast, Mason and other packages)
 - 📫 How to reach me **badreddinekouki11@hotmail.com**
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p><img height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koukibadr&hide=cmake,html,css&show_icons=true&locale=en&layout=donut&hide_progress=true" alt="koukibadr" /></p>
 
