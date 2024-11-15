@@ -21,7 +21,7 @@ Take a coffee ☕ and let me introduce you to my geek 🤓 self
 <br>
 
 <div>
-  <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koukibadr&hide=cmake,html,cpp,c,css&show_icons=true&locale=en&layout=donut&hide_progress=true" alt="koukibadr" width="45%" /></p>
+  <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koukibadr&hide=cmake,html,c++,c,css&show_icons=true&locale=en&layout=donut&hide_progress=true" alt="koukibadr" width="45%" /></p>
   <div align="right" >
     <picture>
   <source
