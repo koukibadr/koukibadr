@@ -5,9 +5,8 @@ Take a coffee ☕ and let me introduce you to my geek 🤓 self
 
 - 👷 Active projects under constructions
 - 🌱 I’m currently focusing on Mobile Technologies **Kotlin & Flutter**
+- 🌱 Contributing to Flutter
 - 📖 I’m currently reading [**flutter engineering book**](https://www.flutterengineering.io/) and [**Android Security Internals**](https://www.amazon.com/Android-Security-Internals-Depth-Architecture/dp/1593275811)
-- 🎸 learning guitar
-- 🤘 a Metal music fan
 - ✍️ a Medium Writer on The Startup, Geek Culture and Nerd For Tech
 - 👯 I'm actively contributing to open source projects (Omnivore App, bottom_picker, motion_toast, Mason and other packages...)
 <h4 align="left">Let's connect:</h4>
