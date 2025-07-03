@@ -8,7 +8,7 @@ Take a coffee ☕ and let me introduce you to my geek 🤓 self
 - 🌱 Contributing to Flutter
 - 📖 I’m currently reading [**flutter engineering book**](https://www.flutterengineering.io/) and [**Android Security Internals**](https://www.amazon.com/Android-Security-Internals-Depth-Architecture/dp/1593275811)
 - ✍️ a Medium Writer on The Startup, Geek Culture and Nerd For Tech
-- 👯 I'm actively contributing to open source projects (Omnivore App, bottom_picker, motion_toast, Mason and other packages...)
+- 👯 I'm actively contributing to open source projects (Flutter, Omnivore App, bottom_picker, motion_toast, Mason and other packages...)
 <h4 align="left">Let's connect:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/badr-kouki-996351116/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/badr-kouki-996351116/" height="30" width="40" /></a>
